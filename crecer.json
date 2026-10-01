@@ -1,0 +1,21 @@
+{
+  "actualizado": "2026-10-01",
+  "meta": 6,
+  "serie": [
+    {
+      "id": "pib-2026-II",
+      "tipo": "trimestral",
+      "periodo": "II trim. 2026",
+      "fecha": "2026-08-18",
+      "valor": 3.5,
+      "fuente": "DANE, boletín PIB II trim. 2026",
+      "url": "https://www.dane.gov.co/files/operaciones/PIB/cp-PIB-IItrim2026.pdf"
+    },
+    {
+      "id": "ise-2026-07",
+      "tipo": "mensual",
+      "periodo": "julio 2026",
+      "fecha": "2026-09-18",
+      "valor": 1.11,
+      "fuente": "DANE (ISE), vía mascolombia.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGkwRUNEMFZJMlFtT1JTYXpwX0xvZXMyV0I5TVV0Yk43VWhNd2tOclVFdXEyTDNMYVg1WHBlblZMWXhfVk5kUjJNMW9mbGJHOUtPT2JDa3NMMVd4S1AyR0stSzBYSnY4TFYzLTJtUkhTdHZlc1ZrdWJ2djFVaTBsTW5NVlNhcV9kcGJxaHZsOWkzWHpnVW1qeFRPM0tsVHlvcEpZemFvWmlxTW1xNHpXLVk2T0JFNlFFZWRzdVNnRjbSAcABQVVfeXFMTjhpMEVDRDBWSTJRbU9SU2F6cF9Mb2VzMldCOU1VdGJON1VoTXdrTnJVRXVxMkwzTGFYNVhwZW5WTFl4X1ZOZFIyTTFvZmxiRzlLT09iQ2tzTDFXeEtQMkdLLUswWEp2OExWMy0ybVJIU3R2ZXNWa3VidnYxVWkwbE1uTVZTYXFfZHBicWh2bDlpM1h6Z1VtanhUTzNLbFR5b3BKWXphb1ppcU1tcTR6Vy1ZNk9CRTZRRWVkc3VTZ0Y2?oc=5"
